@@ -1,2 +1,2 @@
 # CPE02
-atividades cpe unb
+Esse repositório é destinado a disciplina de CPE turma 02, professor Wesin Alves Ribeiro
