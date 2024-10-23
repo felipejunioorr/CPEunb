@@ -1,0 +1,110 @@
+1 - Categorize cada um dos seguintes itens como hardware ou
+software:
+1. CPU: hardware
+2. Disco: rígido hardware
+3. Programa: Word software
+4. Instagram: software
+5. Teclado: hardware
+
+2 - O que é software e qual sua importância?
+Refere-se aos programas, dados e instruções que permitem que
+o hardware execute determinadas funções. Essencial em qualquer
+sistema de computador. É importante por algumas razões como
+armazenamento e gerenciamento de dados, inovação e avanço
+tecnológico, comunicação e conectividade, automação e eficiência...
+
+3 - Defina com suas próprias palavras o que é algoritmo.
+Um conjunto em sequência bem definida de passos que visam a
+realização de alguma tarefa ou resolução de um problema.
+
+4 - Cite exemplos de software usados na medicina, ciência no
+entretenimento que você conhece.
+Medicina: software de diagnóstico por imagem
+Ciência: software de modelagem e simulação
+Entretenimento: plataforma de streamings
+
+5 - Quais softwares deixa sua vida mais fácil? Quais deixam sua
+vida mais complicada?
+Facilitam: navegadores de web como o google chrome
+Dificultam: softwares com interfaces complexas
+
+6 - Considere uma atividade de sua rotina diária. Como a
+computação está direta ou indiretamente envolvida?
+Está ligada por exemplo com tudo relacionado a universidade,
+por meio de e-mails ou sites.
+
+7 - A partir de sua experiência pessoal, descreva uma atividade
+que não seria possível sem computadores.
+A comunicação rápida por meio dos celulares, e-mails, apps...
+
+8 - Faça uma Lista programas que você utiliza.
+Word, Excel, Power Point...
+
+9 - Faça uma lista com dez atividades que não utilizam
+computadores de nenhuma maneira.
+Caminhar, ler, cozinhar, desenhar, praticar esportes, comer,
+conversar, pintar, se exercitar e praticar jardinagem.
+
+10 - Você acha que a inteligência artificial vai acabar com
+empregos na área da computação? Justifique.
+Tudo é uma questão de tempo ate descobrirmos, porém acredito
+que quem é realmente qualificado não é substituível, já que a
+princípio as maquinas precisam de comandos dados por nós.
+
+11 - Descreva a capacidade de seu computador em termos de
+processamento, memória e armazenamento.
+Processamento: Core I5
+Memória: 4GB
+Processamento:
+
+12 - Descreva um algoritmo para resolver um cubo mágico.
+Resolva a cruz da camada superior, depois posicione os cantos
+na camada superior, depois oriente os cantos na camada superior,
+depois resolva a camada do meio e depois resolva a camada inferior.
+13 - Qual a diferença entre bit e byte?
+Enquanto um bit é a menor unidade de informação e pode ter
+apenas dois valores (0 ou 1), um byte consiste em 8 bits e representa
+uma quantidade maior de informação.
+
+14 - Como representar números reais usando sistema binário?
+Nesse sistema, um número real é representado como uma
+combinação de mantissa e expoente, de forma análoga à notação
+científica.
+
+15 - Descreva os passos para converter o número decimal 150
+para sua representação em binário.
+Para converter o número decimal 150 para sua representação
+em binário, você faz a divisão sucessiva por 2: divida o número
+decimal sucessivamente por 2 até obter o quociente 0. Registre os
+restos das divisões, que serão os dígitos binários do número
+convertido. 150 para binário: Começamos dividindo 150 por 2: 150 ÷ 2
+= 75, resto 0 Agora dividimos 75 por 2: 75 ÷ 2 = 37, resto 1 Em
+seguida, dividimos 37 por 2: 37 ÷ 2 = 18, resto 1 Depois, dividimos 18
+por 2: 18 ÷ 2 = 9, resto 0 Continuamos com 9 dividido por 2: 9 ÷ 2 = 4,
+resto 1 Dividimos 4 por 2: 4 ÷ 2 = 2, resto 0 Dividimos 2 por 2: 2 ÷ 2 =
+1, resto 0, dividimos 1 por 2: 1 ÷ 2 = 0, resto 1. Registramos os restos
+das divisões de baixo para cima. Portanto, a representação binária do
+número decimal 150 é 10010110.
+
+16 - Descreva o papel do scrum master, dono do produto e do
+time de desenvolvimento.
+Scrum Master: é responsável por garantir que a equipe de
+desenvolvimento compreenda e siga os princípios e práticas do
+Scrum.
+Dono do Produto (Product Owner): é responsável por
+representar os interesses dos stakeholders e garantir que o produto
+atenda às necessidades do cliente e do negócio.
+Time de Desenvolvimento: O Time de Desenvolvimento é
+responsável por transformar os itens do Product Backlog em
+incrementos potencialmente entregáveis do produto.
+
+17 - Descreva os comandos para mover, copiar, e remover
+arquivos usando linha de comando no sistema operacional que você
+utiliza.
+Mover: mv
+Copiar: cp
+Remover: rm
+
+18 - Qual o padrão IEEE para redes WiFi? E para o Bluetooth?
+IEEE WiFi: 802.11
+IEEE Bluetooth: 802.15.1
